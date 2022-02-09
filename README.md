@@ -1,3 +1,8 @@
+
+# Crypto Checker
+This web app allows you to get real-time information about crypto-currencies from a third party API. It was a very fun project and I have learned many core React concepts such as stats and hooks.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
