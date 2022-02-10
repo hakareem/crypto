@@ -23,6 +23,9 @@ function App() {
 
   return (
     <div className='App'>
+      <div className='titleContainer'>
+        <h1>Welcome to Crypto Checker</h1>
+      </div>
       <div className='cryptoHeader'>
         <input
           type='text'
