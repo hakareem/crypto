@@ -5,7 +5,7 @@ This web app allows you to get real-time information about crypto-currencies fro
 # Areas for improvement 
 • Add clickable links to each coin <br>
 • Add Last 24h Highs & Lows <br>
-• Add refresh button <br> 
+• Add refresh button <br>    
 
   
 # Getting Started with Create React App
