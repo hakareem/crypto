@@ -4,7 +4,7 @@ This web app allows you to get real-time information about crypto-currencies fro
 
 # Areas for improvment 
 • Add clickable links to each coin <br>
-• Add Last 24h Highs & Lows
+• Add Last 24h Highs & Lows <br>
 • Add refresh button <br>
 
 
