@@ -1,6 +1,6 @@
 
 # Crypto Checker
-This web app allows you to get real-time information about crypto-currencies from a third party API. It was a very fun project and I have learned many core concepts such as React states and hooks.
+This web app allows you to get real-time information about crypto-currencies from a third party API. It was a very fun project and I have learned many core concepts such as  functional components and react hooks.
 
 # Areas for improvement 
 • Add clickable links to each coin <br>
