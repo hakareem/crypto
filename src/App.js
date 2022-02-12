@@ -41,7 +41,7 @@ function App() {
             <Coin
               name={coin.name}
               icon={coin.icon}
-              price={coin.price}
+              price={coin.price.toFixed(2)}
               symbol={coin.symbol}
             />
           );
